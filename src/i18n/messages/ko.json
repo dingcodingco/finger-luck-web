@@ -1,0 +1,125 @@
+{
+  "home": {
+    "hero": {
+      "title": "FingerLuck",
+      "subtitle": "누가 행운의 주인공일까?",
+      "description": "여러 명이 동시에 화면을 터치하여 행운의 주인공을 공평하게 선택하는 재미있는 모바일 앱",
+      "downloadButton": "앱 다운로드"
+    },
+    "features": {
+      "title": "주요 기능",
+      "multiTouch": {
+        "title": "멀티 터치 인식",
+        "description": "최대 10명까지 동시에 터치하여 참여 가능"
+      },
+      "animations": {
+        "title": "6가지 애니메이션",
+        "description": "상어, 폭발, 블랙홀, 번개, 하트, 파티 등 다양한 효과"
+      },
+      "customization": {
+        "title": "커스터마이징",
+        "description": "당첨자 수, 사운드, 진동 등 자유롭게 설정"
+      },
+      "darkMode": {
+        "title": "다크모드 지원",
+        "description": "눈이 편안한 다크모드로 언제든지 전환 가능"
+      },
+      "noAds": {
+        "title": "광고 없음",
+        "description": "깔끔한 사용자 경험, 방해 요소 없음"
+      },
+      "privacy": {
+        "title": "개인정보 보호",
+        "description": "어떠한 개인정보도 수집하지 않음"
+      }
+    },
+    "useCases": {
+      "title": "이럴 때 사용하세요",
+      "cases": [
+        {
+          "title": "술래 정하기",
+          "description": "게임을 시작할 때 공평하게 술래를 정해요"
+        },
+        {
+          "title": "팀 나누기",
+          "description": "여러 명을 공평하게 팀으로 나눠요"
+        },
+        {
+          "title": "벌칙 걸기",
+          "description": "재미있는 벌칙을 받을 사람을 정해요"
+        },
+        {
+          "title": "순서 정하기",
+          "description": "발표나 게임 순서를 랜덤으로 정해요"
+        },
+        {
+          "title": "당번 뽑기",
+          "description": "청소나 심부름 당번을 공평하게 뽑아요"
+        },
+        {
+          "title": "선물 주기",
+          "description": "행운의 선물을 받을 사람을 정해요"
+        }
+      ]
+    },
+    "screenshots": {
+      "title": "스크린샷"
+    },
+    "cta": {
+      "title": "지금 바로 시작하세요!",
+      "description": "FingerLuck으로 재미있고 공평한 선택을 경험해보세요",
+      "downloadButton": "무료 다운로드"
+    }
+  },
+  "privacy": {
+    "title": "개인정보 처리방침",
+    "switchLanguage": "English",
+    "content": {
+      "intro": "FingerLuck(이하 '앱')은 사용자의 개인정보를 매우 중요하게 생각하며, 사용자의 개인정보를 보호하기 위해 최선을 다하고 있습니다.",
+      "collection": {
+        "title": "수집하는 개인정보",
+        "description": "본 앱은 어떠한 개인정보도 수집하지 않습니다. 모든 데이터는 사용자의 기기에만 저장되며, 외부 서버로 전송되지 않습니다."
+      },
+      "permissions": {
+        "title": "앱 권한",
+        "vibration": "진동: 햅틱 피드백을 위해 사용됩니다 (선택사항)"
+      },
+      "storage": {
+        "title": "데이터 저장",
+        "description": "앱 설정(다크모드, 사운드, 진동 등)은 기기의 로컬 저장소에만 저장됩니다."
+      },
+      "sharing": {
+        "title": "제3자 제공",
+        "description": "본 앱은 어떠한 데이터도 제3자와 공유하지 않습니다."
+      },
+      "age": {
+        "title": "연령 제한",
+        "description": "본 앱은 모든 연령이 사용할 수 있습니다."
+      },
+      "contact": {
+        "title": "문의사항",
+        "description": "개인정보 처리방침에 대한 문의사항이 있으시면 아래로 연락해주세요:",
+        "email": "contact@fingerluck.app"
+      },
+      "update": {
+        "title": "방침 업데이트",
+        "description": "본 개인정보 처리방침은 필요에 따라 업데이트될 수 있습니다.",
+        "date": "최종 업데이트: 2025년 7월 26일"
+      }
+    }
+  },
+  "common": {
+    "appStore": "App Store에서 다운로드",
+    "playStore": "Google Play에서 다운로드",
+    "nav": {
+      "features": "기능",
+      "useCases": "사용 사례",
+      "screenshots": "스크린샷",
+      "privacy": "개인정보 처리방침"
+    },
+    "footer": {
+      "copyright": "© 2025 FingerLuck. All rights reserved.",
+      "privacy": "개인정보 처리방침"
+    }
+  }
+}

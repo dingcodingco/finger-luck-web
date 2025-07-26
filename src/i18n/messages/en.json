@@ -1,0 +1,125 @@
+{
+  "home": {
+    "hero": {
+      "title": "FingerLuck",
+      "subtitle": "Who will be the lucky one?",
+      "description": "A fun mobile app where multiple people touch the screen simultaneously to fairly select the lucky winner",
+      "downloadButton": "Download App"
+    },
+    "features": {
+      "title": "Key Features",
+      "multiTouch": {
+        "title": "Multi-Touch Recognition",
+        "description": "Up to 10 people can participate by touching simultaneously"
+      },
+      "animations": {
+        "title": "6 Animation Effects",
+        "description": "Various effects including shark, explosion, black hole, lightning, heart, and party"
+      },
+      "customization": {
+        "title": "Customization",
+        "description": "Freely configure winner count, sound, vibration, and more"
+      },
+      "darkMode": {
+        "title": "Dark Mode Support",
+        "description": "Switch to eye-friendly dark mode anytime"
+      },
+      "noAds": {
+        "title": "No Ads",
+        "description": "Clean user experience without interruptions"
+      },
+      "privacy": {
+        "title": "Privacy Protection",
+        "description": "No personal information collected"
+      }
+    },
+    "useCases": {
+      "title": "Use Cases",
+      "cases": [
+        {
+          "title": "Choose Who's It",
+          "description": "Fairly select who's 'it' when starting a game"
+        },
+        {
+          "title": "Team Division",
+          "description": "Divide multiple people into teams fairly"
+        },
+        {
+          "title": "Pick for Penalties",
+          "description": "Choose who gets the fun penalty"
+        },
+        {
+          "title": "Decide Order",
+          "description": "Randomly determine presentation or game order"
+        },
+        {
+          "title": "Select for Duties",
+          "description": "Fairly pick who's on cleaning or errand duty"
+        },
+        {
+          "title": "Gift Giving",
+          "description": "Choose who receives the lucky gift"
+        }
+      ]
+    },
+    "screenshots": {
+      "title": "Screenshots"
+    },
+    "cta": {
+      "title": "Start Now!",
+      "description": "Experience fun and fair selection with FingerLuck",
+      "downloadButton": "Free Download"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "switchLanguage": "한국어",
+    "content": {
+      "intro": "FingerLuck (the 'App') values your privacy and is committed to protecting your personal information.",
+      "collection": {
+        "title": "Information Collection",
+        "description": "This app does not collect any personal information. All data is stored only on your device and is not transmitted to external servers."
+      },
+      "permissions": {
+        "title": "App Permissions",
+        "vibration": "Vibration: Used for haptic feedback (optional)"
+      },
+      "storage": {
+        "title": "Data Storage",
+        "description": "App settings (dark mode, sound, vibration, etc.) are stored only in your device's local storage."
+      },
+      "sharing": {
+        "title": "Third-Party Sharing",
+        "description": "This app does not share any data with third parties."
+      },
+      "age": {
+        "title": "Age Restrictions",
+        "description": "This app can be used by all ages."
+      },
+      "contact": {
+        "title": "Contact",
+        "description": "If you have any questions about this privacy policy, please contact us at:",
+        "email": "contact@fingerluck.app"
+      },
+      "update": {
+        "title": "Policy Updates",
+        "description": "This privacy policy may be updated as needed.",
+        "date": "Last updated: July 26, 2025"
+      }
+    }
+  },
+  "common": {
+    "appStore": "Download on App Store",
+    "playStore": "Get it on Google Play",
+    "nav": {
+      "features": "Features",
+      "useCases": "Use Cases",
+      "screenshots": "Screenshots",
+      "privacy": "Privacy Policy"
+    },
+    "footer": {
+      "copyright": "© 2025 FingerLuck. All rights reserved.",
+      "privacy": "Privacy Policy"
+    }
+  }
+}
