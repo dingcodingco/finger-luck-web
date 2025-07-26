@@ -71,7 +71,7 @@ export default function PrivacyPage() {
         contact: {
           title: '8. 문의사항',
           content: '개인정보 처리방침에 대한 문의사항이 있으시면 아래로 연락 주시기 바랍니다:',
-          email: 'contact@fingerluck.app'
+          email: 'uijolsamanager@gmail.com'
         }
       }
     },
@@ -137,7 +137,7 @@ export default function PrivacyPage() {
         contact: {
           title: '8. Contact Us',
           content: 'If you have any questions about this Privacy Policy, please contact us at:',
-          email: 'contact@fingerluck.app'
+          email: 'uijolsamanager@gmail.com'
         }
       }
     }
