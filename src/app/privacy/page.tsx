@@ -3,12 +3,10 @@
 import { useState } from 'react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import { useTranslations } from 'next-intl';
 import { motion } from 'framer-motion';
 
 export default function PrivacyPage() {
   const [language, setLanguage] = useState<'ko' | 'en'>('ko');
-  const t = useTranslations('privacy');
 
   const privacyContent = {
     ko: {
